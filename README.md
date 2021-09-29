@@ -21,4 +21,3 @@ if (youEnjoyed) {
 -----------
 
 ## Thank You
-- Author : [Nevil Parmar](https://nevilparmar.me)
