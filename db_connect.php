@@ -2,14 +2,10 @@
 //establishes database connections and returns PDO variable named 'pdo'.
 //use $pdo for accessing database.
 
-// $host = '127.0.0.1';
-// $db   = 'csiddysz_csi';
-// $user = 'csiddysz';
-// $pass = 'Tvr@#1125120';
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db = "csi";
+$host = '127.0.0.1';
+$db   = 'csiddysz_csi';
+$user = 'csiddysz';
+$pass = 'Tvr@#1125120';
 $charset = 'utf8mb4';
 
 // $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
